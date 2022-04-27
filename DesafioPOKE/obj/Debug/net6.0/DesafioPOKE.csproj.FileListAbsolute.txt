@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\obj\Debug\net6.0\DesafioPOKE.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\obj\Debug\net6.0\DesafioPOKE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\obj\Debug\net6.0\DesafioPOKE.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\obj\Debug\net6.0\DesafioPOKE.AssemblyInfo.cs
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\obj\Debug\net6.0\DesafioPOKE.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\bin\Debug\net6.0\DesafioPOKE.exe
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\bin\Debug\net6.0\DesafioPOKE.deps.json
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\bin\Debug\net6.0\DesafioPOKE.runtimeconfig.json
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\bin\Debug\net6.0\DesafioPOKE.dll
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\bin\Debug\net6.0\DesafioPOKE.pdb
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\obj\Debug\net6.0\DesafioPOKE.dll
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\obj\Debug\net6.0\ref\DesafioPOKE.dll
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\obj\Debug\net6.0\DesafioPOKE.pdb
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\obj\Debug\net6.0\DesafioPOKE.genruntimeconfig.cache
+C:\Users\PC\Documents\Desafio\Desafio\TesteDesafioPOKE\DesafioPOKE\obj\Debug\net6.0\refint\DesafioPOKE.dll
