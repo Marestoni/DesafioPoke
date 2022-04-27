@@ -1,5 +1,7 @@
 # DesafioPoke
 Desafio pokeAPI utilizando SDK 6.0
+VisualStudio 2022
+.net
 #
 Nota:
 A descrição do desafio não ficou muito clara, então peguei o codigo do git no doc e criei um novo projeto
