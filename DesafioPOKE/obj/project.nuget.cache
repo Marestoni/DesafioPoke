@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9MvGnwlbFHIc1oWjoorHGNoP6FkBmyfXVE6CUljP5kkoZ+TQYXPZqxfZDps+wbn/6XQENBJVlip5LK32zVqvQA==",
+  "dgSpecHash": "nPpciE27EAf88tR22OCiIn8zjnF80D9dM+GAZGdS4jVyBmdYOaUooGzV9dWW5fp1Svm4YI8+5t1/CNHDAb7L/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Documents\\Desafio\\Desafio\\TesteDesafioPOKE\\DesafioPOKE\\DesafioPOKE.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\Desafio\\DesafioPokeApi\\DesafioPOKE\\DesafioPOKE.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

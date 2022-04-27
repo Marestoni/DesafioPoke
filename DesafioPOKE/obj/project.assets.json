@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Documents\\Desafio\\Desafio\\TesteDesafioPOKE\\DesafioPOKE\\DesafioPOKE.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\Desafio\\DesafioPokeApi\\DesafioPOKE\\DesafioPOKE.csproj",
       "projectName": "DesafioPOKE",
-      "projectPath": "C:\\Users\\PC\\Documents\\Desafio\\Desafio\\TesteDesafioPOKE\\DesafioPOKE\\DesafioPOKE.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\Desafio\\DesafioPokeApi\\DesafioPOKE\\DesafioPOKE.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Documents\\Desafio\\Desafio\\TesteDesafioPOKE\\DesafioPOKE\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\Desafio\\DesafioPokeApi\\DesafioPOKE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
